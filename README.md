@@ -7,3 +7,6 @@ This datapacks recreates the [Crafting Tweaks mod](https://www.curseforge.com/mi
 ## Requirements
 - Minecraft 1.16+
 - [Vanilla+ Library: Custom Crafting](https://github.com/TheWii/vanilla-plus-library/tree/master/vplib-custom-crafting-datapack)
+
+## Releases
+- [Latest](https://github.com/TheWii/vplib-crafting-tweaks/releases)
