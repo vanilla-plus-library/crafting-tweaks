@@ -1,6 +1,10 @@
 {
     "pack": {
         "pack_format": 6,
-        "description": [{"text":"Vanilla+ Library","color":"green"},{"text":"\nCrafting Tweaks","color":"gray"}]
+        "description": [{"text":"Vanilla+ Library","color":"green"},{"text":"\nCrafting Tweaks __ver","color":"gray"}]
+    },
+    "release": {
+        "upload": true,
+        "name": "vplib-custom-crafting-resources-__ver"
     }
 }
