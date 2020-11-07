@@ -3,8 +3,8 @@
         "pack_format": 6,
         "description": [{"text":"Vanilla+ Library","color":"green"},{"text":"\nCrafting Tweaks __ver","color":"gray"}]
     },
-        "release": {
-            "upload": true,
-            "name": "vplib-custom-crafting-datapack-__ver"
-        }
+    "release": {
+        "upload": true,
+        "name": "vplib-crafting-tweaks-datapack-__ver"
     }
+}
