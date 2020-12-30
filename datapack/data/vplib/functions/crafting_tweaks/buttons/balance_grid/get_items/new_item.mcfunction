@@ -11,6 +11,5 @@ data modify storage vplib:temp items[0].slots prepend from storage vplib:temp ar
 data modify storage vplib:temp gridSlots prepend from storage vplib:temp array[-1].Slot
 
 # Set item nbt
-data modify storage vplib:temp items[0].item set from storage vplib:temp array[-1]
-data remove storage vplib:temp items[0].item.Slot
-data remove storage vplib:temp items[0].item.Count
+data modify storage vplib:temp items[0].item.id set from storage vplib:temp array[-1].id
+data modify storage vplib:temp items[0].item.tag set from storage vplib:temp array[-1].tag
